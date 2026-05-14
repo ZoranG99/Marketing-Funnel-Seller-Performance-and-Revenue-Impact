@@ -1,6 +1,6 @@
 -- Load the data
 COPY marketplace.customers
-FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing_Funnel_Seller_Performance_and_Revenue_Impact/Dataset/Processed/customers.csv'
+FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing-Funnel-Seller-Performance-and-Revenue-Impact/Dataset/Processed/customers.csv'
 WITH (
     FORMAT csv,
     HEADER true,
@@ -10,7 +10,7 @@ WITH (
 );
 
 COPY marketplace.sellers
-FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing_Funnel_Seller_Performance_and_Revenue_Impact/Dataset/Processed/sellers.csv'
+FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing-Funnel-Seller-Performance-and-Revenue-Impact/Dataset/Processed/sellers.csv'
 WITH (
     FORMAT csv,
     HEADER true,
@@ -20,7 +20,7 @@ WITH (
 );
 
 COPY marketplace.geolocation
-FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing_Funnel_Seller_Performance_and_Revenue_Impact/Dataset/Processed/geolocation.csv'
+FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing-Funnel-Seller-Performance-and-Revenue-Impact/Dataset/Processed/geolocation.csv'
 WITH (
     FORMAT csv,
     HEADER true,
@@ -30,7 +30,7 @@ WITH (
 );
 
 COPY marketplace.product_category_translation
-FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing_Funnel_Seller_Performance_and_Revenue_Impact/Dataset/Processed/product_category_translation.csv'
+FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing-Funnel-Seller-Performance-and-Revenue-Impact/Dataset/Processed/product_category_translation.csv'
 WITH (
     FORMAT csv,
     HEADER true,
@@ -40,7 +40,7 @@ WITH (
 );
 
 COPY marketplace.products
-FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing_Funnel_Seller_Performance_and_Revenue_Impact/Dataset/Processed/products.csv'
+FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing-Funnel-Seller-Performance-and-Revenue-Impact/Dataset/Processed/products.csv'
 WITH (
     FORMAT csv,
     HEADER true,
@@ -50,7 +50,7 @@ WITH (
 );
 
 COPY marketplace.marketing_qualified_leads
-FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing_Funnel_Seller_Performance_and_Revenue_Impact/Dataset/Processed/marketing_qualified_leads.csv'
+FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing-Funnel-Seller-Performance-and-Revenue-Impact/Dataset/Processed/marketing_qualified_leads.csv'
 WITH (
     FORMAT csv,
     HEADER true,
@@ -60,7 +60,7 @@ WITH (
 );
 
 COPY marketplace.closed_deals
-FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing_Funnel_Seller_Performance_and_Revenue_Impact/Dataset/Processed/closed_deals.csv'
+FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing-Funnel-Seller-Performance-and-Revenue-Impact/Dataset/Processed/closed_deals.csv'
 WITH (
     FORMAT csv,
     HEADER true,
@@ -70,7 +70,7 @@ WITH (
 );
 
 COPY marketplace.orders
-FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing_Funnel_Seller_Performance_and_Revenue_Impact/Dataset/Processed/orders.csv'
+FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing-Funnel-Seller-Performance-and-Revenue-Impact/Dataset/Processed/orders.csv'
 WITH (
     FORMAT csv,
     HEADER true,
@@ -80,7 +80,7 @@ WITH (
 );
 
 COPY marketplace.order_items
-FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing_Funnel_Seller_Performance_and_Revenue_Impact/Dataset/Processed/order_items.csv'
+FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing-Funnel-Seller-Performance-and-Revenue-Impact/Dataset/Processed/order_items.csv'
 WITH (
     FORMAT csv,
     HEADER true,
@@ -90,7 +90,7 @@ WITH (
 );
 
 COPY marketplace.order_payments
-FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing_Funnel_Seller_Performance_and_Revenue_Impact/Dataset/Processed/order_payments.csv'
+FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing-Funnel-Seller-Performance-and-Revenue-Impact/Dataset/Processed/order_payments.csv'
 WITH (
     FORMAT csv,
     HEADER true,
@@ -100,7 +100,7 @@ WITH (
 );
 
 COPY marketplace.order_reviews
-FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing_Funnel_Seller_Performance_and_Revenue_Impact/Dataset/Processed/order_reviews.csv'
+FROM 'D:/Data_Science/Projects/Portfolio_Projects/Marketing-Funnel-Seller-Performance-and-Revenue-Impact/Dataset/Processed/order_reviews.csv'
 WITH (
     FORMAT csv,
     HEADER true,
