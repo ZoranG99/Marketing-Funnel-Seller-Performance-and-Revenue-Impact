@@ -42,8 +42,8 @@ The company invests heavily in marketing campaigns to acquire potential sellers 
 ### Q1: Which marketing channels generate the best business value?
 
 <p align="center">
-  <img src="Assets/Visuals/q1_total_seller_revenue_by_channel.png" width="49%" />
-  <img src="Assets/Visuals/q1_mql_to_deal_conversion_rate_by_channel.png" width="49%" />
+  <img src="Assets/Visuals/q1_total_seller_revenue_by_channel.png" width="95%" />
+  <img src="Assets/Visuals/q1_mql_to_deal_conversion_rate_by_channel.png" width="95%" />
 </p>
 
 * **Top Revenue Drivers:** 
@@ -58,8 +58,8 @@ The company invests heavily in marketing campaigns to acquire potential sellers 
 ### Q2: Which landing pages attract the highest-quality leads?
 
 <p align="center">
-  <img src="Assets/Visuals/q2_top_landing_pages_by_revenue.png" width="49%" />
-  <img src="Assets/Visuals/q2_top_landing_pages_by_conversion_rate.png" width="49%" />
+  <img src="Assets/Visuals/q2_top_landing_pages_by_revenue.png" width="95%" />
+  <img src="Assets/Visuals/q2_top_landing_pages_by_conversion_rate.png" width="95%" />
 </p>
 
 * **Revenue Powerhouses:** 
@@ -89,8 +89,8 @@ The company invests heavily in marketing campaigns to acquire potential sellers 
 ### Q4: How efficient is the sales process?
 
 <p align="center">
-  <img src="Assets/Visuals/q4_fastest_high_activation_sales_segments.png" width="49%" />
-  <img src="Assets/Visuals/q4_slowest_sales_segments_by_avg_days_to_close.png" width="49%" />
+  <img src="Assets/Visuals/q4_fastest_high_activation_sales_segments.png" width="95%" />
+  <img src="Assets/Visuals/q4_slowest_sales_segments_by_avg_days_to_close.png" width="95%" />
 </p>
 
 * **High-Velocity Segments:** 
@@ -105,8 +105,8 @@ The company invests heavily in marketing campaigns to acquire potential sellers 
 ### Q5: Do converted sellers become active marketplace sellers?
 
 <p align="center">
-  <img src="Assets/Visuals/q5_active_vs_inactive_converted_sellers.png" width="49%" />
-  <img src="Assets/Visuals/q5_active_seller_rate_by_marketing_channel.png" width="49%" />
+  <img src="Assets/Visuals/q5_active_vs_inactive_converted_sellers.png" width="95%" />
+  <img src="Assets/Visuals/q5_active_seller_rate_by_marketing_channel.png" width="95%" />
 </p>
 
 * **Activation Gap:** 
@@ -121,8 +121,8 @@ The company invests heavily in marketing campaigns to acquire potential sellers 
 ### Q6: Which converted seller groups create the strongest marketplace outcomes?
 
 <p align="center">
-  <img src="Assets/Visuals/q6_top_seller_groups_by_revenue.png" width="49%" />
-  <img src="Assets/Visuals/q6_top_seller_groups_by_active_seller_rate.png" width="49%" />
+  <img src="Assets/Visuals/q6_top_seller_groups_by_revenue.png" width="95%" />
+  <img src="Assets/Visuals/q6_top_seller_groups_by_active_seller_rate.png" width="95%" />
 </p>
 
 * **Revenue Titan:** 
